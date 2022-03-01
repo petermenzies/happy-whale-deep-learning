@@ -1,1 +1,1 @@
-# happy-whale-deep-learning
+# whales-deep-learning
