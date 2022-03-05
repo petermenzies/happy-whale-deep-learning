@@ -7,3 +7,5 @@ data
 .ipynb_checkpoints
 .vscode
 .DS_Store
+working_docs
+data.zip
